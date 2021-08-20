@@ -1,0 +1,469 @@
+   microsd card : computer and accessories
+   gb class : computer and accessories
+   microsd : computer and accessories
+   micro sd : computer and accessories
+   memory card : computer and accessories
+   container : Home and Kitchen
+   brief: beauty health
+   briefs : beauty health
+   belt : shoe and belt
+   deo : beauty health
+   towel :   beauty health
+   ypm : shoe and belt
+   pan:Home and Kitchen
+   badminton: sports fitness 
+   samsung galaxy : mobiles and tablets
+   paperback      :        books     
+   software engineering      :        books     
+   hardcover      :        books     
+   algebra      :        books     
+   tee-      :        clothing and accessories      
+   tees      :        clothing and accessories     
+   shirt      :        clothing and accessories     
+   tee(with space character)      :        clothing and accessories     
+   watch      :        watches and jwellery     
+   car body      :        Home and Kitchen     
+   car seat      :        Home and Kitchen     
+   bike cover      :        Home and Kitchen     
+   helmet      :        home and kitchen     
+   skullcandy      :        mobiles and tablets     
+   jacket      :        clothing and accessories     
+   house + gloves      :        Home and Kitchen     
+   gloves      :        sports fitness     
+   phablet      :        mobiles and tablets     
+   kurta      :        clothing and accessories     
+   flip cover      :        mobiles and tablets     
+   back cover      :        mobiles and tablets     
+   revolving      :        Home and Kitchen     
+   deodorant      :        beauty health     
+   handbag      :        handbags and luggage     
+   hobo      :        handbags and luggage     
+   bracelet      :        watches and jwellery     
+   bra      :        clothing and accessories     
+   tupperware      :        Home and Kitchen     
+   shaver      :        beauty health     
+   containers      :        Home and Kitchen     
+   olive oil      :        Home and Kitchen     
+   jars      :        Home and Kitchen     
+   lakme      :        beauty health     
+   condom      :        beauty health     
+   dressing      :        beauty health     
+   trouser      :        clothing and accessories     
+   water purifier      :        Home and Kitchen     
+   shoe      :        shoe and belt     
+   pendent      :        watches and jwellery     
+   shoes(      :        shoe and belt     
+   parker      :        books     
+   manforce      :        beauty health     
+   wallet      :        clothing and accessories     
+   wall clock      :        home and kitchen     
+   football kit      :        Home and Kitchen     
+   bangles      :        watches and jwellery     
+   earring      :        watches and jwellery     
+   amway      :        beauty health     
+   healthvit      :        beauty health     
+   himalaya      :        beauty health     
+   jewel      :        watches and jwellery     
+   jewellery      :        watches and jwellery     
+   hotwheels      :        toys and baby products     
+   natrol      :        beauty health     
+   calcium      :        Home and Kitchen     
+   herbal      :        beauty health     
+   sugar free      :        Home and Kitchen     
+   disk lock      :        Home and Kitchen     
+   remote control      :        toys and baby products     
+   vaadi      :        beauty health     
+   garnier      :        beauty health     
+   health aid      :        beauty health     
+   herbalife      :        beauty health     
+   sling bag      :        handbags and luggage     
+   ayurveda      :        beauty health     
+   prolab      :        beauty health     
+   knee guard      :        beauty health     
+   speaker      :        computer and accessories     
+   panasonic er206kk       :        mobiles and tablets     
+   promate      :        mobiles and tablets     
+   lenovo a269i      :        mobiles and tablets     
+   samsung charger      :        mobiles and tablets     
+   iball andi      :        mobiles and tablets     
+   panasonic p31      :        mobiles and tablets     
+   panasonic t31      :        mobiles and tablets     
+   capdase      :        mobiles and tablets     
+   protoner      :        beauty health     
+   dellta      :        shoe and belt     
+   rubberband      :        books     
+   panasonic ez240      :        mobiles and tablets     
+   flip case      :        mobiles and tablets     
+   moleskine      :        books     
+   lenovo a850      :        mobiles and tablets     
+   oxyglow      :        beauty health     
+   envie      :        computer and accessories     
+   gillette      :        beauty health     
+   car charger      :        Home and Kitchen     
+   bp monitor      :        beauty health     
+   lenovo p780      :        mobiles and tablets     
+   projector light      :        toys and baby products     
+   morepen      :        beauty health     
+   sleeping projector      :        toys and baby products     
+   pendrive      :        computer and accessories     
+   disk drive      :        computer and accessories     
+   hard drive      :        computer and accessories     
+   hair styler      :        beauty health     
+   loreal      :        beauty health     
+   lotto      :        shoe and belt     
+   card holder      :        handbags and luggage     
+   shahnaz      :        beauty health     
+   samsung usb      :        mobiles and tablets     
+   lenovo p770      :        mobiles and tablets     
+   back case      :        mobiles and tablets     
+   kaya      :        beauty health     
+   usb charger      :        mobiles and tablets     
+   heel      :        shoe and belt     
+   led      :        Home and Kitchen     
+   pressure monitor      :        beauty health     
+   mast & harbour      :        clothing and accessories     
+   saree      :        clothing and accessories     
+   tunic      :        clothing and accessories     
+   kurti      :        clothing and accessories     
+   trimmer      :        beauty health     
+   oriflame      :        beauty health     
+   glucose      :        beauty health     
+   lenovo a680      :        mobiles and tablets     
+   rainbow screen guard      :        mobiles and tablets     
+   protective pouch      :        mobiles and tablets     
+   protein conditioner      :        beauty health     
+   fabindia      :        clothing and accessories     
+   peradot      :        mobiles and tablets     
+   scratch guard      :        mobiles and tablets     
+   bio oil      :        beauty health     
+   software      :        books     
+   iball slide      :        mobiles and tablets     
+   sony cybershot      :        camera audio video     
+   the body shop      :        beauty health     
+   neutrogena      :        beauty health     
+   led light      :        Home and Kitchen     
+   grooming kit      :        beauty health     
+   vlcc      :        beauty health     
+   hcl me      :        mobiles and tablets     
+   amzer      :        mobiles and tablets     
+   lotus      :        beauty health     
+   iball 3g      :        mobiles and tablets     
+   software testing      :        books     
+   omron      :        beauty health     
+   charger      :        mobiles and tablets     
+   laptop      :        computer and accessories     
+   pen drive      :        computer and accessories     
+   notebook      :        computer and accessories     
+   zebronics      :        computer and accessories     
+   lenovo      :        computer and accessories     
+   adapter      :        computer and accessories     
+   dlink      :        computer and accessories     
+   antivirus      :        computer and accessories     
+   router      :        computer and accessories     
+   mousepad      :        computer and accessories     
+   logitech      :        computer and accessories     
+   seagate      :        computer and accessories     
+   printer      :        computer and accessories     
+   kingston      :        computer and accessories     
+   motherboard      :        computer and accessories     
+   mcafee      :        computer and accessories     
+   software      :        computer and accessories     
+   monitor      :        computer and accessories     
+   netgear      :        computer and accessories     
+   toner      :        computer and accessories     
+   cartridge      :        computer and accessories     
+   hcl      :        computer and accessories     
+   panasonic      :        computer and accessories     
+   wireless      :        computer and accessories     
+   data card      :        computer and accessories     
+   anti virus      :        computer and accessories     
+   datacard      :        computer and accessories     
+   kaspersky      :        computer and accessories     
+   dell      :        computer and accessories     
+   webcam      :        computer and accessories     
+   projector      :        computer and accessories     
+   jbl      :        computer and accessories     
+   phone      :        mobiles and tablets     
+   tablet      :        mobiles and tablets     
+   moto      :        mobiles and tablets     
+   mobile      :        mobiles and tablets     
+   lava      :        mobiles and tablets     
+   apple iphone      :        mobiles and tablets     
+   blackberry      :        mobiles and tablets     
+   nexus      :        mobiles and tablets     
+   htc      :        mobiles and tablets     
+   powerbank      :        mobiles and tablets     
+   nokia      :        mobiles and tablets     
+   xperia      :        mobiles and tablets     
+   karbonn      :        mobiles and tablets     
+   android      :        mobiles and tablets     
+   ericsson      :        mobiles and tablets     
+   xolo      :        mobiles and tablets     
+   alcatel      :        mobiles and tablets     
+   power bank      :        mobiles and tablets     
+   powerbank      :        mobiles and tablets     
+   ipad      :        mobiles and tablets     
+   ipod      :        mobiles and tablets     
+   pendant set      :        watches and jwellery     
+   remover pen      :        Home and Kitchen     
+   pendulum clock      :        Home and Kitchen     
+   dispens      :        Home and Kitchen     
+   microwave      :        Home and Kitchen     
+   pen camera      :        camera audio video     
+   penis enlargement      :        beauty health     
+   gold pendant      :        watches and jwellery     
+   pearl pendant      :        watches and jwellery     
+   silver pendant      :        watches and jwellery     
+   apple macbook      :        computer and accessories     
+   opener      :        Home and Kitchen     
+   iball hybrid      :        computer and accessories     
+   asus      :        computer and accessories     
+   pendant      :        beauty health     
+   wilson      :        sports fitness     
+   book      :        books     
+   invest      :        books     
+   legging      :        clothing and accessories     
+   flip flop      :        shoe and belt     
+   sneakers      :        shoe and belt     
+   sandal      :        shoe and belt     
+   moccasin      :        shoe and belt     
+   loafer      :        shoe and belt     
+   footwear      :        shoe and belt     
+   bata      :        shoe and belt     
+   heel      :        shoe and belt     
+   slipper      :        shoe and belt     
+   ballerina      :        shoe and belt     
+   flipflop      :        shoe and belt     
+   flip-flop      :        shoe and belt     
+   slipper      :        shoe and belt     
+   nivia      :        shoe and belt     
+   boot      :        shoe and belt     
+   sparx      :        shoe and belt     
+   cipla      :        Home and Kitchen     
+   soap      :        beauty health     
+   loreal      :        beauty health     
+   shampoo      :        beauty health     
+   facial      :        beauty health     
+   powder      :        beauty health     
+   spray      :        beauty health     
+   lipstick      :        beauty health     
+   lotion      :        beauty health     
+   mehndi      :        beauty health     
+   moisturi      :        beauty health     
+   nail      :        beauty health     
+   oil      :        beauty health     
+   lakme      :        beauty health     
+   gel      :        beauty health     
+   nivea      :        beauty health     
+   aloe      :        beauty health     
+   glow      :        beauty health     
+   dove      :        beauty health     
+   health      :        beauty health     
+   capsules      :        beauty health     
+   tonic      :        beauty health     
+   hair      :        beauty health     
+   massager      :        beauty health     
+   fragrance      :        beauty health     
+   lomani      :        beauty health     
+   shave      :        beauty health     
+   cleans      :        beauty health     
+   toilette      :        beauty health     
+   backpack      :        handbags and luggage     
+   capris      :        clothing and accessories     
+   polo t-shirt      :        clothing and accessories     
+   football (      :        sports fitness     
+   polo-      :        clothing and accessories     
+   ball pen      :        computer and accessories     
+   cotton      :        clothing and accessories     
+   trackpant      :        clothing and accessories     
+   passport holder      :        handbags and luggage     
+   passport pouch      :        handbags and luggage     
+   pet      :        pet supplies     
+   dog food      :        pet supplies     
+   sport      :        sports fitness     
+   fitness      :        sports fitness     
+   cricket      :        sports fitness     
+   bedminton       :        sports fitness     
+   basketball      :        sports fitness     
+   football      :        sports fitness     
+   volleyball      :        sports fitness     
+   tennis      :        sports fitness     
+   baseball      :        sports fitness     
+   gym      :        sports fitness     
+   dumbell      :        sports fitness     
+   cipla      :        sports fitness     
+   glove      :        sports fitness     
+   guitar      :        sports fitness     
+   chess      :        sports fitness     
+   puzzle      :        sports fitness     
+   kitchen      :        home and kitchen     
+   bean bag      :        home and kitchen     
+   flask      :        home and kitchen     
+   bedsheet      :        home and kitchen     
+   table      :        home and kitchen     
+   furniture      :        home and kitchen     
+   magic mop      :        home and kitchen     
+   juicer      :        home and kitchen     
+   dinner set      :        home and kitchen     
+   hot plate      :        home and kitchen     
+   sheet      :        home and kitchen     
+   mop      :        home and kitchen     
+   home      :        home and kitchen     
+   cook      :        home and kitchen     
+   purifier      :        home and kitchen     
+   lunch      :        home and kitchen     
+   broom      :        home and kitchen     
+   kettle      :        home and kitchen     
+   bone china      :        home and kitchen     
+   mattress      :        home and kitchen     
+   milton      :        home and kitchen     
+   mosquito      :        home and kitchen     
+   bajaj      :        home and kitchen     
+   prestige      :        home and kitchen     
+   screwdriver      :        home and kitchen     
+   umbrella      :        home and kitchen     
+   tea      :        home and kitchen     
+   bottles      :        home and kitchen     
+   curtain      :        home and kitchen     
+   grinder      :        home and kitchen     
+   knife      :        home and kitchen     
+   pillow      :        home and kitchen     
+   mug      :        home and kitchen     
+   lunch      :        home and kitchen     
+   toaster      :        home and kitchen     
+   toilette      :        home and kitchen     
+   chapati      :        home and kitchen     
+   eveready      :        home and kitchen     
+   hookah      :        home and kitchen     
+   jug      :        home and kitchen     
+   electrolux      :        home and kitchen     
+   bathroom      :        home and kitchen     
+   blender      :        home and kitchen     
+   tawa      :        home and kitchen     
+   aluminium      :        home and kitchen     
+   bosch      :        home and kitchen     
+   hair dryer      :        home and kitchen     
+   hairdryer      :        home and kitchen     
+   wallclock      :        home and kitchen     
+   lantern      :        home and kitchen     
+   nayasa      :        home and kitchen     
+   sensor      :        home and kitchen     
+   bowl      :        home and kitchen     
+   stove      :        home and kitchen     
+   television      :        home and kitchen     
+   tiffin      :        home and kitchen     
+   tava      :        home and kitchen     
+   air cooler      :        home and kitchen     
+   stabilizer      :        home and kitchen     
+   lamp      :        home and kitchen     
+   plastic      :        home and kitchen     
+   bulb torch lamp      :        home and kitchen     
+   rechargeable      :        home and kitchen     
+   induction      :        home and kitchen     
+   food processor      :        home and kitchen     
+   broom      :        home and kitchen     
+   toolkit      :        home and kitchen     
+   sewing      :        home and kitchen     
+   tadka pan      :        home and kitchen     
+   maharaja      :        home and kitchen     
+   vacuum cleaner      :        home and kitchen     
+   sheffield      :        home and kitchen     
+   swipe halo      :        mobiles and tablets     
+   deep fryer      :        mobiles and tablets     
+   sitara chaand collection      :        books     
+   photo frame      :        home and kitchen     
+   poker set      :        toys and baby products     
+   luggage      :        handbags and luggage     
+   temper proof      :        home and kitchen     
+   bag      :        handbags and luggage     
+   clutch      :        handbags and luggage     
+   laptop bag      :        handbags and luggage     
+   jholas      :        handbags and luggage     
+   key chain      :        handbags and luggage     
+   kanvas katha      :        handbags and luggage     
+   mamy poko      :        toys and baby products     
+   toy      :        toys and baby products     
+   police car      :        toys and baby products     
+   police bike      :        toys and baby products     
+   doll      :        toys and baby products     
+   bloomer      :        toys and baby products     
+   helicopter      :        toys and baby products     
+   infant      :        toys and baby products     
+   jwellery      :        watches and jwellery     
+   necklace      :        watches and jwellery     
+   jewellery      :        watches and jwellery     
+   pendant      :        watches and jwellery     
+   ring      :        watches and jwellery     
+   orpat      :        watches and jwellery     
+   bangle      :        watches and jwellery     
+   goldplated      :        watches and jwellery     
+   jhumki      :        watches and jwellery     
+   pearl      :        watches and jwellery     
+   titan      :        watches and jwellery     
+   quartz      :        watches and jwellery     
+   jewelry      :        watches and jwellery     
+   mangalsutra      :        watches and jwellery     
+   movie      :        movies and video games     
+   dvd      :        movies and video games     
+   video game      :        movies and video games     
+   camera      :        camera audio video     
+   canon      :        camera audio video     
+   nikon      :        camera audio video     
+   recorder      :        camera audio video     
+   shirt      :        clothing and accessories     
+   jean      :        clothing and accessories     
+   suit      :        clothing and accessories     
+   dress      :        clothing and accessories     
+   undergarment      :        clothing and accessories     
+   john player      :        clothing and accessories     
+   jockey      :        clothing and accessories     
+   skirt      :        clothing and accessories     
+   pant      :        clothing and accessories     
+   shorts      :        clothing and accessories     
+   bra      :        clothing and accessories     
+   panty      :        clothing and accessories     
+   vest      :        clothing and accessories     
+   jegging      :        clothing and accessories     
+   track pant      :        clothing and accessories     
+   sunglass      :        clothing and accessories     
+   aviators      :        clothing and accessories     
+   sock      :        clothing and accessories     
+   banarasi      :        clothing and accessories     
+   playboy      :        clothing and accessories     
+   dupatta      :        clothing and accessories     
+   kook      :        clothing and accessories     
+   chinos      :        clothing and accessories     
+   top      :        clothing and accessories     
+   jacket      :        clothing and accessories     
+   rainwear      :        clothing and accessories     
+   nightwear      :        clothing and accessories     
+   shrug      :        clothing and accessories     
+   raincoat      :        clothing and accessories     
+   salwar      :        clothing and accessories     
+   kameez      :        clothing and accessories     
+   nighty      :        clothing and accessories     
+   lehnga      :        clothing and accessories     
+   jersey      :        clothing and accessories     
+   handkerchief      :        clothing and accessories     
+   boxers      :        clothing and accessories     
+   winter      :        clothing and accessories     
+   dermawear      :        clothing and accessories     
+   cloth      :        clothing and accessories     
+   casual      :        clothing and accessories     
+   formal      :        clothing and accessories     
+   sunglsse      :        clothing and accessories     
+   pyjama      :        clothing and accessories     
+   pullover      :        clothing and accessories     
+   eyeglass      :        clothing and accessories     
+   shawl      :        clothing and accessories     
+   coat      :        clothing and accessories     
+   sweater      :        clothing and accessories     
+   woolen      :        clothing and accessories     
+   blazer      :        clothing and accessories     
+   blouse      :        clothing and accessories     
+   kaftans      :        clothing and accessories     
+   spice      :        mobiles and tablets     
+   mp3      :        camera audio video     
+   pen      :        books     
+   kriaa      :        watches and jwellery     
+   spa      :        beauty health     
